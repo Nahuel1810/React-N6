@@ -5,7 +5,7 @@ function App() {
   const [tareas, setTareas] = useState([
     { nombre: 'React 6', realizada: true },
     { nombre: 'Bases de datos 1', realizada: false },
-    { nombre: 'Tp paola', realizada: false }
+    { nombre: 'Tp rompato', realizada: false }
   ]);
 
   const [nuevaTarea, setNuevaTarea] = useState('');
